@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+seaborn
+pandas
+requests
+langchain
+langchain-google-genai
+langchain-community
+langchain-pinecone
+python-dotenv
+pinecone-client
+PyMuPDF
+pdf2image
+Pillow
