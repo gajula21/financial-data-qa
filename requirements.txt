@@ -8,7 +8,7 @@ langchain-google-genai
 langchain-community
 langchain-pinecone
 python-dotenv
-pinecone-client
+pinecone
 PyMuPDF
 pdf2image
 Pillow
