@@ -9,7 +9,5 @@ langchain-community
 langchain-pinecone
 python-dotenv
 pinecone
-PyMuPDF
-pdf2image
 Pillow
 PyPDF2
