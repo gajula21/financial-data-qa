@@ -1,0 +1,10 @@
+[theme]
+primaryColor="#FF4B4B" # Example: A vibrant red
+
+backgroundColor="#F0F2F6" # Example: A light grey
+
+secondaryBackgroundColor="#E0E2E6" # Example: A slightly darker grey
+
+textColor="#262730" # Example: Dark almost black
+
+font="sans serif" # or "serif", "monospace"
