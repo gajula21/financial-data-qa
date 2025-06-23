@@ -12,3 +12,4 @@ pinecone-client
 PyMuPDF
 pdf2image
 Pillow
+PyPDF2
