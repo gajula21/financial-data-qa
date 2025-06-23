@@ -1,13 +1,13 @@
-streamlit
+streamlit>=1.33.0
 matplotlib
 seaborn
 pandas
 requests
-langchain
+langchain>=0.2.0
 langchain-google-genai
 langchain-community
 langchain-pinecone
 python-dotenv
-pinecone
+pinecone>=4.0.0
 Pillow
 PyPDF2
